@@ -10,7 +10,7 @@ import lombok.Data;
  **/
 @Data
 @AllArgsConstructor
-public class Operation {
+public abstract class Operation {
 
     /**
      * 参数A

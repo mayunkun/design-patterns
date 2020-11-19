@@ -1,7 +1,5 @@
 package com.aeert.design.simplefactory;
 
-import lombok.AllArgsConstructor;
-
 /**
  * @Author l'amour solitaire
  * @Description 加法运算
