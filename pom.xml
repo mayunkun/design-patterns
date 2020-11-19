@@ -6,6 +6,7 @@
     <modules>
         <module>design-simple-factory</module>
         <module>design-factory-method</module>
+        <module>design-abstract-factory</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
