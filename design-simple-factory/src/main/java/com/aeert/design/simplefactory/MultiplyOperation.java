@@ -2,7 +2,7 @@ package com.aeert.design.simplefactory;
 
 /**
  * @Author l'amour solitaire
- * @Description 加法运算
+ * @Description 乘法运算
  * @Date 2020/11/19 上午10:48
  **/
 public class MultiplyOperation extends Operation {
