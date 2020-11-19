@@ -1,4 +1,4 @@
-package com.aeert.design.simplefactory;
+package com.aeert.design.simplefactory.operation;
 
 /**
  * @Author l'amour solitaire

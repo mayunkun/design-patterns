@@ -1,6 +1,6 @@
 package com.aeert.design;
 
-import com.aeert.design.simplefactory.Operation;
+import com.aeert.design.simplefactory.operation.Operation;
 import com.aeert.design.simplefactory.OperationFactory;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

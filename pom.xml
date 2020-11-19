@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>design-simple-factory</module>
+        <module>design-factory-method</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
