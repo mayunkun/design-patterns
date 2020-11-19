@@ -2,7 +2,7 @@ package com.aeert.design.abstractfactory.db;
 
 /**
  * @Author l'amour solitaire
- * @Description TODO
+ * @Description SqlServer
  * @Date 2020/11/19 下午3:29
  **/
 public class SqlServerUser implements IUser {

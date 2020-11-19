@@ -2,7 +2,7 @@ package com.aeert.design.abstractfactory.db;
 
 /**
  * @Author l'amour solitaire
- * @Description TODO
+ * @Description Mysql
  * @Date 2020/11/19 下午3:24
  **/
 public class MysqlUser implements IUser {
