@@ -8,6 +8,7 @@
         <module>design-factory-method</module>
         <module>design-abstract-factory</module>
         <module>design-strategy</module>
+        <module>design-chain-responsibility</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
