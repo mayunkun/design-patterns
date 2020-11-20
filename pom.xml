@@ -9,6 +9,7 @@
         <module>design-abstract-factory</module>
         <module>design-strategy</module>
         <module>design-chain-responsibility</module>
+        <module>design-singleton</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
