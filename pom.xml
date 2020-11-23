@@ -10,7 +10,8 @@
         <module>design-strategy</module>
         <module>design-chain-responsibility</module>
         <module>design-singleton</module>
-    </modules>
+		<module>design-template</module>
+	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
