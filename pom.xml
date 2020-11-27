@@ -4,14 +4,23 @@
 	<modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
+		<!--简单工厂-->
         <module>design-simple-factory</module>
+		<!--工厂方法-->
         <module>design-factory-method</module>
+		<!--抽象工厂-->
         <module>design-abstract-factory</module>
+		<!--策略模式-->
         <module>design-strategy</module>
+		<!--责任链-->
         <module>design-chain-responsibility</module>
+		<!--单例模式-->
         <module>design-singleton</module>
+		<!--模板方法模式-->
 		<module>design-template</module>
-	</modules>
+		<!--原型模式-->
+        <module>design-prototype</module>
+    </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
