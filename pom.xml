@@ -20,7 +20,9 @@
 		<module>design-template</module>
 		<!--原型模式-->
         <module>design-prototype</module>
-    </modules>
+		<!--适配器模式-->
+		<module>design-adapter</module>
+	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
